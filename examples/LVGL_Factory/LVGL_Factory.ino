@@ -12,12 +12,12 @@
 #define SCREEN_WIDTH         128
 #define SCREEN_WIDTH         128
 
-#define WIFI_SSID            "Your-ssid"
-#define WIFI_PASSWORLD       "Your-password"
+#define WIFI_SSID            "dorobob"
+#define WIFI_PASSWORLD       "2palmbeach32"
 
 #define NTP_SERVER1          "pool.ntp.org"
 #define NTP_SERVER2          "time.nist.gov"
-#define GMT_OFFSET_SEC       (3600 * 8)
+#define GMT_OFFSET_SEC       (3600 * -4)
 #define DAY_LIGHT_OFFSET_SEC 0
 
 
